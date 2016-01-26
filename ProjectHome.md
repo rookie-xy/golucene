@@ -1,0 +1,1 @@
+GoLucene is a go port of the Java Lucene search engine library.It's a source code, class-per-class, API-per-API and algorithmatic port of the Lucene written with go language.
